@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <b>Full Stack Developer (MERN) | Problem Solver | Java & DSA | Exploring System Design & DevOps | Basic Cloud</b>
+  <b>Full Stack Developer (MERN) | Problem Solver | Java & DSA | Exploring System Design & DevOps | Cloud Computing(AWS)</b>
 </p>
 
 <p align="center">
